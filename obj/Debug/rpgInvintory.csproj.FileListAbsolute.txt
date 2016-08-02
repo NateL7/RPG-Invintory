@@ -1,0 +1,9 @@
+C:\Users\Nate\Desktop\rpgInvintory\bin\Debug\rpgInvintory.exe.config
+C:\Users\Nate\Desktop\rpgInvintory\bin\Debug\rpgInvintory.exe
+C:\Users\Nate\Desktop\rpgInvintory\bin\Debug\rpgInvintory.pdb
+C:\Users\Nate\Desktop\rpgInvintory\obj\Debug\rpgInvintory.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Desktop\rpgInvintory\obj\Debug\rpgInvintory.Form1.resources
+C:\Users\Nate\Desktop\rpgInvintory\obj\Debug\rpgInvintory.Properties.Resources.resources
+C:\Users\Nate\Desktop\rpgInvintory\obj\Debug\rpgInvintory.csproj.GenerateResource.Cache
+C:\Users\Nate\Desktop\rpgInvintory\obj\Debug\rpgInvintory.exe
+C:\Users\Nate\Desktop\rpgInvintory\obj\Debug\rpgInvintory.pdb
